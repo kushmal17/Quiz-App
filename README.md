@@ -25,10 +25,10 @@ The Quiz App with Backend is a full-stack web application that allows users to t
 
 . Frontend: HTML, CSS, JavaScript
 
-. Backend: Node.js + Express
+. Backend: PHP
 
 . Database: MySQL
 
 . API: Custom REST API for fetching and submitting quiz data
 
-. Deployment: GitHub, Vercel
+. Deployment: GitHub
